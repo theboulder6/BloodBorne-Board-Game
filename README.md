@@ -1,6 +1,6 @@
-# Bloodborne: Tombs of Yharnham
+# Bloodborne: Tombs of Yharnam
 
-**Bloodborne: Tombs of Yharnham** is a fast-paced, card-based dungeon crawl inspired by the aesthetic and design philosophy of *Bloodborne*. Players take on the role of Hunters exploring a cursed catacomb, navigating through combat, resource management, and branching decisions across 10-13 deadly rooms.
+**Bloodborne: Tombs of Yharnam** is a fast-paced, card-based dungeon crawl inspired by the aesthetic and design philosophy of *Bloodborne*. Players take on the role of Hunters exploring a cursed catacomb, navigating through combat, resource management, and branching decisions across 10-13 deadly rooms.
 
 Builds emerge from modular decks of weapons, Blood Gems, Hunter’s Tools, and Items.
 
