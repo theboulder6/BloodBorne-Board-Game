@@ -1,5 +1,5 @@
 # ignore anything in the obsidian metadata folder file
 
-.obsidian/
+.obsidian/*
 
 /.obsidian/workspace.json
