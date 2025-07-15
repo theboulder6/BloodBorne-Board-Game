@@ -1,0 +1,17 @@
+![[Chikage.webp]]
+A finely honed edge reminds hunters of the fine line they walk.
+
+Primary Stat: Dexterity
+Secondary Stat: Arcane
+
+| Attack       | Description                                                                                                                          | Effect                                                                                                                                                       |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Razor Slash  | A swift, precise slash that dances through the air, leaving a trail of crimson as it rends flesh and spirit alike.                   | 1-10: half damage, 11-20: full damage                                                                                                                        |
+|              |                                                                                                                                      |                                                                                                                                                              |
+| Soul Stab    | A brutal thrust meant to pierce the heart, delivering a visceral strike that echoes the pain of both wielder and foe.                | 1-5: no damage, 6-19: full damage, 20: double damage                                                                                                         |
+|              |                                                                                                                                      |                                                                                                                                                              |
+| Transform    | The blade is sheathed, drawing forth the user's own blood to empower its deadly potential, a pact sealed in crimson.                 |                                                                                                                                                              |
+|              |                                                                                                                                      |                                                                                                                                                              |
+| Iaido        | The blade is unsheathed in one fluid motion, striking with precision before being returned, a dance of death and discipline.         | 1-10: full damage, 10-20: double damage<br><br>User suffers 10 damage or loses one blood vial                                                                |
+|              |                                                                                                                                      |                                                                                                                                                              |
+| Crimson Gale | A cleaving strike enveloped in a mist of blood, this attack surges with dark energy, siphoning life while leaving the target maimed. | 1-5: half damage, 6-10: full weapon and half Magic damage, 11-20: full weapon, Magic damage, and wound<br><br>User suffers 15 damage or loses one blood vial |

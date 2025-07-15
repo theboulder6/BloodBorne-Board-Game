@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "bc7d471022a450b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6d7736345207a67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "472096d7b5a83023",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "v2.0.0/blood gems/Blood gem scratch ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blood gem scratch ideas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51dbc15d40c2ce4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b5d8a46fbdb4f1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "073723e5ab496ed6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4203e3fd69b28fe0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1f9673301dcf513f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e118782d0c401844",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6fdc47fdeadb560",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70a5841e0b16ebec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rooms/Room 7.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Room 7"
+            }
+          },
+          {
+            "id": "b050b14c77ff30ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rooms/Room 7.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Room 7"
+            }
+          },
+          {
+            "id": "1227f34305ecf07d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f3c887e124ef7209",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rooms/Room 7.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Room 7"
+            }
+          },
+          {
+            "id": "6942d3335598a145",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "073723e5ab496ed6",
+  "lastOpenFiles": [
+    "v2.0.0/General Rules/Beasthood.md",
+    "v2.0.0/blood gems/Blood gem scratch ideas.md",
+    "v2.0.0/General Rules/Doctrine and Loyalty.md",
+    "v2.0.0/General Rules/Level up.md",
+    "v2.0.0/General Rules/Blood gems.md",
+    "v1.0.0/Hunters Tools/A Call Beyond.md",
+    "v2.0.0/Character sheets/Father Gascoigne.md",
+    "v2.0.0/Character sheets/Eileen the Crow.md",
+    "v2.0.0/Character sheets/Henrik the Cursed.md",
+    "v2.0.0/Character sheets/Lucie, Scholar of Forbidden Arts.md",
+    "v2.0.0/Character sheets/Lady Maria of the Astral Clocktower.md",
+    "v2.0.0/Character sheets/Djura, Friend to Beasts.md",
+    "v2.0.0/Character sheets/Alfred, Church Executioner.md",
+    "v2.0.0/General Rules/Levels.md",
+    "v2.0.0/General Rules/Rooms.md",
+    "v2.0.0/General Rules/Hunter Tools.md",
+    "v2.0.0/General Rules/Reactions.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "v2.0.0/Character sheets/Beast.md",
+    "v2.0.0/Hunter Tools/Auger of Ebritas.md",
+    "v1.0.0/Hunters Tools/Auger of Ebritas.md",
+    "v1.0.0/Levelling.md",
+    "v2.0.0/Hunter Tools",
+    "v2.0.0/General Rules",
+    "v2.0.0/Rooms",
+    "v2.0.0/blood gems",
+    "v2.0.0/Weapons",
+    "Untitled",
+    "v2.0.0/Character sheets",
+    "v2.0.0",
+    "v1.0.0",
+    "v1.0.0/Ideas.md",
+    "v1.0.0/Weapons/Burial Blade.md",
+    "v1.0.0/Weapons/pdf exports/Rifle Spear.pdf",
+    "v1.0.0/Rooms/Room 12.md",
+    "v1.0.0/images/Empty_Phantasm_Shell.webp",
+    "v1.0.0/images/Rifle_Spear.webp",
+    "v1.0.0/images/Tiny_Tonitrus.webp",
+    "v1.0.0/images/Piercing_Rifle.webp",
+    "v1.0.0/images/Old_Hunter_Bone.webp",
+    "v1.0.0/images/Beast_Roar.webp",
+    "v1.0.0/images/A_Call_Beyond.webp",
+    "v1.0.0/images/Choir_Bell.webp",
+    "v1.0.0/images/Blacksky_Eye.webp",
+    "v1.0.0/images/Augur_of_Ebrietas.webp"
+  ]
+}
