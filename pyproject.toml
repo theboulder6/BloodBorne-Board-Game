@@ -1,0 +1,18 @@
+[project]
+name = "bloodborne-tombs-of-yharnham"
+version = "0.5.2"
+description = "A dark, card-driven dungeon-delving board game inspired by Bloodborne. Includes evolving rulesets and modular components."
+authors = [
+    { name = "Joshua Allen" }
+]
+license = "CC-BY-NC-SA-4.0"
+readme = "README.md"
+keywords = ["boardgame", "bloodborne", "tabletop", "rules", "assets"]
+requires-python = ">=3.8"
+
+[tool.tombs]
+game_stage = "alpha"
+rulebook_format = "markdown"
+asset_format = "svg+png"
+vault_system = "obsidian"
+status_notes = "WIP rules, assets, and encounter tables. Full rulebook TBD."
