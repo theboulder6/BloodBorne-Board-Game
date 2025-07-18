@@ -1,4 +1,7 @@
-  
+Dramatic Entrance: On your first attack of a combat you do not have to roll to hit and you add +2 to the damage. The first monster attack will always target you.
+
+Rash: You always act first in combat
+
 Cleansed by blood: When you kill a monster with 3+ damage, heal 1 and lose 1 Beasthood.
   
 Relentless: Whenever you attack a monster, if you attacked the same monster last round add +1 to the damage  

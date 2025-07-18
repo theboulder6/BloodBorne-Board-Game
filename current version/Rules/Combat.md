@@ -1,0 +1,1 @@
+Combat is the most common state the players will be in. During combat the hunters will be facing 1 or more monsters and must reduce all monsters HP to 0 in order to progress.     

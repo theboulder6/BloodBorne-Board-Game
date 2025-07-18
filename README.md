@@ -11,7 +11,7 @@ Builds emerge from modular decks of weapons, Blood Gems, Hunter’s Tools, and I
 - Card-driven character progression and d20-based combat
 - Modular upgrades via Weapons, Blood Gems, Items, and Tools
 - Designed for 1–6* players, with a scalable room system and simple tracking
-  * Currently requires a game master to manage certain game decisions and behavior,s but the role will be gradually phased out as development progresses
+  * Currently requires a game master to manage certain game decisions and behavior's but the role will be gradually phased out as development progresses
 
 
 ## License

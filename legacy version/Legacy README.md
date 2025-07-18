@@ -1,0 +1,2 @@
+
+This is the first draft version of this game i made quickly in preparation for a Halloween party. It inspired me to start designing the current version. Although the mechanics and assests have changed dramatically I wanted to keep it here for reference going forward. 

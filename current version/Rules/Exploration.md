@@ -1,0 +1,3 @@
+Most rooms will contain some kind of narrative choice that must be made, this choice can be either singular (each individual hunter must make their own choice) or collective (the hunters must decide on a single choice). Some choices will have a requirement in order to make that choice such as spending a resource (most commonly insight), or being loyal to a certain faction. 
+
+Once all choices have been made the GM reads the outcome for each chosen choice and the players resolve their effects. Once choice effects have been read players may no longer change their decisions. 
