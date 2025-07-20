@@ -2,7 +2,7 @@
 
 Factions: Kin-touched
 
-| Starting Values :<br> <br>Vitality : 3<br>Endurance : 2<br>Strength : 2<br>Dexterity : 0<br>Bloodtinge : 0<br>Arcane : 1 | Starting Weapons:<br> <br>[[Logarius Wheel]]<br>                                                                |
+| Starting Values :<br> <br>Vitality : 3<br>Endurance : 2<br>Strength : 2<br>Dexterity : 0<br>Bloodtinge : 0<br>Arcane : 1 | Starting Weapons:<br> <br>[[legacy version/Weapons/Logarius Wheel]]<br>                                                                |
 | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
 | Starting Items:<br><br>Vials: 2<br>Bullets: 0<br>Insight: 3                                                              | Starting Values :<br><br>Starting Health : 40<br>Weapon Damage : 26<br>Firearm Damage : 10<br>Magic Damage : 16 |
 

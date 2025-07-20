@@ -1,4 +1,4 @@
-![[A_Call_Beyond.webp]]
+![[legacy version/images/A_Call_Beyond.webp]]
 An eldritch artifact that channels the power of the Great Ones, used to cast a powerful arcane attack.
 
 

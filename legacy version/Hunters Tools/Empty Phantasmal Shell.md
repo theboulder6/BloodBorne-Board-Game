@@ -1,4 +1,4 @@
-![[Empty_Phantasm_Shell.webp]]
+![[legacy version/images/Empty_Phantasm_Shell.webp]]
 
 The discarded cocoon of an otherworldly insect, a shell with no true form 
 

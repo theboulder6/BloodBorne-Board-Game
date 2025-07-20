@@ -2,7 +2,7 @@
 
 Factions: Holy Blade
 
-| Starting Stats :<br><br>Vitality : 3<br>Endurance : 2<br>Strength : 2<br>Dexterity : 0<br>Bloodtinge : 1<br>Arcane : 0 | Starting Weapons: <br><br>[[Burial Blade]], <br>[[Blunderbuss]]                                       |
+| Starting Stats :<br><br>Vitality : 3<br>Endurance : 2<br>Strength : 2<br>Dexterity : 0<br>Bloodtinge : 1<br>Arcane : 0 | Starting Weapons: <br><br>[[legacy version/Weapons/Burial Blade]], <br>[[Blunderbuss]]                                       |
 | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | Starting Items:<br><br>Vials : 2<br>Bullets : 5<br>Insight : 1                                                         | Starting Values:<br><br>Health : 40<br>Weapon Damage : 26<br>Firearm Damage : 16<br>Magic Damage : 10 |
 

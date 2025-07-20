@@ -1,4 +1,4 @@
-![[Hunter_Blunderbuss.webp]]
+![[legacy version/images/Hunter_Blunderbuss.webp]]
 
 A short-range, wide-spread shotgun used for crowd control.
 

@@ -22,7 +22,7 @@ Investor: When you gain this gem, you may spend up to three echoes, if you do, a
   
 Bone splitter: Whenever you deal damage to a monster, if 4 or more damage was dealt, that monster loses one attack next turn.  
   
-Crows Mercy: When you attack an enemy at 1 hp, instead of rolling, set their hp to 0 and remove one beasthood or gain 1 hp
+Crows Mercy: When you would damage an enemy at 1 hp, instead set their hp to 0 and remove one beasthood or gain 1 hp
 
 Tool master: When taking the counterattack reaction you may instead activate a hunter's tool
 
@@ -67,7 +67,7 @@ Beastly Lineage: Raise your maximum beasthood by two 🩸
 
 Blast radius: 💥: When dealing damage with an item you may target an additional monster to receive the same amount of damage
 
-Scattershot: 💥: After dealing damage to a monster you may also use an item
+Scattershot: 💥: After using an item you may take the attack action
 
 Crafty: you gain the following action "Improvise: Draw an item from the top of the deck" 💥
 
@@ -109,17 +109,25 @@ Lantern's nail: Monsters cannot target you this turn,
 
 items: 
 
-Old hunter's bone (consumable): may be used without spending an action, gain +3 to all dodge actions this combat 
+Old hunter's bone (consumable): may be used without spending an action, gain +3 to all dodge reactions this combat 
   
 Fire paper (consumable): add +1 to all weapon damage this combat
 
 Bolt paper (consumable): add +3 to all weapon attack rolls this combat
 
-sedative: remove all beasthood
+Sedative: Remove all beasthood
 
-firebomb: 💥
+Firebomb:  Deal 4 damage
 
-Molotov cocktail: 💥
+Molotov cocktail: Deal 2 damage, until end of round attacks targeting this monster deal +1 damage
+
+rare items:
+
+Iosfka's blood vial: increase your vitality by one then heal to max health
+
+
+
+
 
 
 

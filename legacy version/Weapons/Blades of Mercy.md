@@ -1,4 +1,4 @@
-![[Blade_of_Mercy.webp]]
+![[legacy version/images/Blade_of_Mercy.webp]]
 
 A curved slender short sword
 

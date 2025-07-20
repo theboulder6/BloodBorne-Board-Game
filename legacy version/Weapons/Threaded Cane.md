@@ -1,5 +1,5 @@
 
-![[Threaded_Cane.webp]]
+![[legacy version/images/Threaded_Cane.webp]]
 
 A slender, silver cane with a concealed blade, allowing for quick, precise strikes
 

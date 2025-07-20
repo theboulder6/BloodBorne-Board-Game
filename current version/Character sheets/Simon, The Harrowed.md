@@ -2,7 +2,7 @@
 
 Factions: Healing Church (white)
 
-| Starting Stats:<br><br>Vitality : 2<br>Endurance : 3<br>Strength : 0<br>Dexterity : 1<br>Bloodtinge : 2 (5)<br>Arcane : 0 | Starting Weapons :<br> <br>[[Bowblade]]                                                                |
+| Starting Stats:<br><br>Vitality : 2<br>Endurance : 3<br>Strength : 0<br>Dexterity : 1<br>Bloodtinge : 2 (5)<br>Arcane : 0 | Starting Weapons :<br> <br>[[legacy version/Weapons/Bowblade]]                                                                |
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | Starting Items :<br><br>Vials : 1<br>Bullets : 4<br>Insight : 1                                                           | Starting Values :<br><br>Health : 30<br>Weapon Damage : 22<br>Firearm Damage : 24<br>Magic Damage : 10 |
 

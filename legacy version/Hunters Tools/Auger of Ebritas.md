@@ -1,4 +1,4 @@
-![[Augur_of_Ebrietas.webp]]
+![[legacy version/images/Augur_of_Ebrietas.webp]]
 A grotesque, organic weapon, formed from the remains of the Great One Ebrietas, used to channel cosmic power.
 
 | Attack          | Description                                                                            | Effect                                                                              |

@@ -1,4 +1,4 @@
-![[Tiny_Tonitrus.webp]]
+![[legacy version/images/Tiny_Tonitrus.webp]]
 A small, electrified weapon that crackles with lightning
 
 

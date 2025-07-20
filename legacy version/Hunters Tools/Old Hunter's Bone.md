@@ -1,4 +1,4 @@
-![[Old_Hunter_Bone.webp]]
+![[legacy version/images/Old_Hunter_Bone.webp]]
 A relic from an Old Hunters, imbued with arcane energy, enhances a hunter’s mobility
 
 | Attack        | Description                                                                                | Effect                                                      |

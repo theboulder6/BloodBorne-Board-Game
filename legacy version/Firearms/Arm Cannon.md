@@ -1,4 +1,4 @@
-![[Cannon.webp]]
+![[legacy version/images/Cannon.webp]]
 A large, heavy firearm that delivers massive damage at short range.
 
 | Attack       | Description                                                                                      | Effect                                                                                   |

@@ -1,4 +1,4 @@
-![[Choir_Bell.webp]]
+![[legacy version/images/Choir_Bell.webp]]
 A delicate bell used by the Choir, a group of scholars devoted to the Great Ones, that invokes healing and support magic.
 
 | Attack             | Description                                                                                                 | Effect                                                                                        |

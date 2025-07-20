@@ -1,4 +1,4 @@
-![[Hunter_Pistol.webp]]
+![[legacy version/images/Hunter_Pistol.webp]]
 
 A basic firearm with moderate damage output.
 

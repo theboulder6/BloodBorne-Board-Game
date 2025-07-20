@@ -1,4 +1,4 @@
-![[Rifle_Spear.webp]]
+![[legacy version/images/Rifle_Spear.webp]]
 A cold iron spear lined with intricate, soot-blackened engravings
 
 Primary Stats: Bloodtinge

@@ -1,4 +1,4 @@
-![[Piercing_Rifle.webp]]
+![[legacy version/images/Piercing_Rifle.webp]]
 
 A high-precision rifle designed for long-range attacks.
 

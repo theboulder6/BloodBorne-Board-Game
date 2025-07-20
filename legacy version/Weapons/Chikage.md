@@ -1,4 +1,4 @@
-![[Chikage.webp]]
+![[legacy version/images/Chikage.webp]]
 A finely honed edge reminds hunters of the fine line they walk.
 
 Primary Stat: Dexterity

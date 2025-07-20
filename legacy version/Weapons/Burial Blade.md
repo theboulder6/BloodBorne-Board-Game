@@ -1,4 +1,4 @@
-![[Burial_Blade.webp]]
+![[legacy version/images/Burial_Blade.webp]]
 
 A rusty curved longsword, its purpose in a peaceful time long forgotten
 

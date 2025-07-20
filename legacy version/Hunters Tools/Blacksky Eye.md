@@ -1,4 +1,4 @@
-![[Blacksky_Eye.webp]]
+![[legacy version/images/Blacksky_Eye.webp]]
 A strange, otherworldly eye that shoots beams of celestial energy, used to attack with the power of the cosmos.
 
 | Attack            | Description                                                                                                                 | Effect                                                          |

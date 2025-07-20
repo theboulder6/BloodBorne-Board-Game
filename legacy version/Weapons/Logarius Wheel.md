@@ -1,4 +1,4 @@
-![[Logarius%27_Wheel.webp]]
+![[legacy version/images/Logarius%27_Wheel.webp]]
 
 A simple looking double spoked wheel, trapping restless spirits within
 

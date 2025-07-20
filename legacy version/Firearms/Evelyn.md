@@ -1,4 +1,4 @@
-![[Evelyn.webp]]
+![[legacy version/images/Evelyn.webp]]
 
 A rare, elegant firearm with high damage potential.
 

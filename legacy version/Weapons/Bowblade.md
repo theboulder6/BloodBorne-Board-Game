@@ -1,4 +1,4 @@
-![[Simon%27s_Bowblade.webp]]
+![[legacy version/images/Simon%27s_Bowblade.webp]]
 
 A slender curved sword made for one who detests firearms.
 

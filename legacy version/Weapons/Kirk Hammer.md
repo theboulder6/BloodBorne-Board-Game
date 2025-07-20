@@ -1,4 +1,4 @@
-![[Kirkhammer.webp]]
+![[legacy version/images/Kirkhammer.webp]]
 
 A large sword etched with runes of the church
 

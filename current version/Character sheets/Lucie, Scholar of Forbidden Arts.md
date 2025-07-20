@@ -2,7 +2,7 @@
 
 Factions: Bergenwerth
 
-| Starting Stats :<br> <br>Vitality : 1 (2)<br>Endurance : 3<br>Strength : 0<br>Dexterity : 0 (2)<br>Bloodtinge : 0<br>Arcane : 3 (4) | Starting Weapons: <br><br>[[Threaded Cane]], <br>[[legacy version/Hunters Tools/Auger of Ebritas]]                               |
+| Starting Stats :<br> <br>Vitality : 1 (2)<br>Endurance : 3<br>Strength : 0<br>Dexterity : 0 (2)<br>Bloodtinge : 0<br>Arcane : 3 (4) | Starting Weapons: <br><br>[[legacy version/Weapons/Threaded Cane]], <br>[[legacy version/Hunters Tools/Auger of Ebritas]]                               |
 | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | Starting Items:<br><br>Vials: 2<br>Bullets: 0<br>Insight: 4                                                                         | Starting Values:<br><br>Health: 20<br>Weapon Damage : 5<br>Firearm Damage : 10<br>Magic Damage : 31 |
 
