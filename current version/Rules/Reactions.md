@@ -2,7 +2,7 @@ When a player is attacked, announce the damage to the player, they then have the
   
 Endure: Take full damage, no roll 
 
-Dodge: roll 
+Dodge: 
 -1-10 (damage +1) 
 -11-20 (no damage)
 

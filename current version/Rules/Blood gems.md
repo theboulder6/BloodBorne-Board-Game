@@ -1,2 +1,2 @@
 
-Blood gems are the primary option available in the level up deck and 
+Blood gems are the primary option available for expanding player's abilities. When player's enter a level up room they draw three blood gems and choose one to keep. They can spend 2 echoes to keep a second one. By default a player has one blood gem slot at the beginning of the game but can spend resources to unlock up to two more. 

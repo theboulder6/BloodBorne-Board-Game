@@ -1,0 +1,1 @@
+Each room is located as a depth level, the available depth levels are 1-5. Has no intrinsic effect but may be referenced by other cards. Depth 5 only has one room, the final boss room.   

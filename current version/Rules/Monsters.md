@@ -1,0 +1,1 @@
+Monsters are the threats present during combat. Monsters will have an HP value, a Speed value, and attacks. 

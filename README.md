@@ -13,7 +13,6 @@ Builds emerge from modular decks of weapons, Blood Gems, Hunter’s Tools, and I
 - Designed for 1–6* players, with a scalable room system and simple tracking
   * Currently requires a game master to manage certain game decisions and behavior's but the role will be gradually phased out as development progresses
 
-
 ## License
 
 This is a non-commercial fan project created under Fair Use principles. All rights to the *Bloodborne* IP, including names and visual concepts, are owned by FromSoftware. This game is not affiliated with or endorsed by FromSoftware or Sony Interactive Entertainment.

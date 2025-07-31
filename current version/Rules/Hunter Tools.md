@@ -1,0 +1,1 @@
+Hunter tools are similar to items in that the combined amount of items and tools a player can hold is limited to 3, they require a single action to use their effects. 

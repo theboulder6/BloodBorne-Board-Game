@@ -55,9 +55,9 @@ Disciplined: Replace the calm action with the following action "control: lose tw
 
 Master the Self: When you kill a monster, remove one beasthood ⚔️
 
-Queen's Chosen: 🩸: 
+Queen's Chosen: 🩸: You no longer take damage when exceeding your maximum beasthood. you may use blood vials while at max beasthood. 
 
-Thirst Unending 🩸: Whenever you attack a monster add +2 to the damage and +4 to the roll. At the end of your turn gain one beasthood and roll the beast die. You no longer take damage when exceeding your max beasthood.
+Thirst Unending 🩸: Whenever you attack a monster add +X to the damage and +X to the roll where x is your beasthood. At the end of your turn gain one beasthood and roll the beast die. 
 
 Blood drunkard: When using a blood vial gain 2 extra health and gain one beasthood in addition to other effects 🩸
 
