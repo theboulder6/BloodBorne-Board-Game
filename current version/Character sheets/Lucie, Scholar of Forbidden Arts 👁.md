@@ -2,6 +2,22 @@
 
 Factions: 👁
 
+ABILITY:
+Tool master: When taking the counterattack reaction you may instead activate a hunter's tool
+
+Starting Weapon: None
+
+Starting hunters tool:
+Auger of Ebritas
+
+vitality: 
+
+vials: 0
+
+insight: 2
+
+echoes: 0
+
 
 
 

@@ -8,6 +8,8 @@ Crows Mercy: When you would damage an enemy at 1 hp, instead set their hp to 0 a
 
 Starting Weapon: Blade of mercy
 
+vitality: 7
+
 vials: 1
 
 insight: 0

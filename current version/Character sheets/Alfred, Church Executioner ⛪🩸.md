@@ -8,13 +8,14 @@ Bone Splitter: Whenever you deal damage to a monster, if 4 or more damage was de
 
 Starting Weapon: KirkHammer
 
+vitality: 12 
+
 vials: 1
 
 insight: 0
 
 echoes: 0
 
-Unlocked gem slots: 1
 
 
 

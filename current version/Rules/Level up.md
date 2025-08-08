@@ -12,7 +12,7 @@ When reaching a lantern room, the hunters are given three blood gems to choose f
 
 2 echoes: keep an additional blood gem
 
-2 echoes: unlock 2nd blood gem slot
+3 echoes: unlock 2nd blood gem slot
 
 3 echoes: purchase a hunters tool 
 
