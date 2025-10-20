@@ -15,9 +15,7 @@ _A grotesque weapon of the Healing Church, drawing power from the wielder’s ow
 ---
 
 **Mastery:**  
-At any time during your turn in combat, pay 7 HP. IF Blood surge or purifying flow are used while this weapon is mastered, un master it. 
-
-**Blood Frenzy Attacks:**
+At any time during your turn in combat, pay 7 HP. If Blood surge or Purifying flow are used while this weapon is mastered, un master it. 
 
 - Frenzied Strike  
   Lose 2 HP  

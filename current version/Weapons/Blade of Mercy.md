@@ -1,6 +1,6 @@
 ![[current version/images/Blade_of_Mercy.webp]]
 
-***In the world of hunters, living to fight another day is not always a good thing
+_In the world of hunters, living to fight another day is not always a good thing_
 
 Seeker's thrust
 1-5: deal 1 damage
@@ -12,7 +12,7 @@ Veil Slash
 
 ________________________________________________________________
 Mastery: 
-Kill 4 monsters at 2 or less hp
+Kill 3 monsters at 2 or less hp
 ______________________________________________________________________
 Weapon gains the follow attack option:
 
