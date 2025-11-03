@@ -1,6 +1,6 @@
 # Holy Moonlight Blade ⚔️
 
-_Its said that, at the end, this sword led Ludwig back to humanity one last time_
+_A blade of unknown origin. Discovered by Ludwig, its said that, in his last days, this sword led Ludwig back to humanity one last time_
 
 Radiant Slash  
 1–10: Deal 2 damage

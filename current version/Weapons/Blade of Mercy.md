@@ -1,14 +1,12 @@
-![[current version/images/Blade_of_Mercy.webp]]
-
-_In the world of hunters, living to fight another day is not always a good thing_
+_Forged from the same meteorite as Gehrman's Burial blade, these blades are among the oldest of the workshop. Even since the bloodlust started hunter of hunters have passed these blades down master to student_
 
 Seeker's thrust
 1-5: deal 1 damage
 6-20: deal 2 damage
 
 Veil Slash
-1-10: Deal 1 damage
-11-20 Deal 1 damage, if this kills the target you may make immediately make another attack
+1-5: Deal 1 damage
+6-20 Deal 1 damage, if this kills the target you may make immediately make another attack
 
 ________________________________________________________________
 Mastery: 

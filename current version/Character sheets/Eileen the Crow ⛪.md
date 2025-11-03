@@ -3,7 +3,8 @@
 Doctrine: ⛪
 
 ABILITY: 
-Crows Mercy: When you would damage an enemy at 1 hp, instead set their hp to 0 and remove one beasthood or gain 1 hp
+The Hunter of Hunters: When damaging a monster, if its a humanoid, add +1 to your attack. 
+When taking damage, if its source was from a humanoid, take 1 less damage. 
   
 
 Starting Weapon: Blade of mercy

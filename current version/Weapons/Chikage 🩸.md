@@ -2,7 +2,7 @@
 
 _A cursed blade of the Vilebloods, its true power is drawn from the user’s own corrupted soul_
 
-**Attacks (all require spending Beasthood):**
+**Attacks:**
 
 - Bloodletting Slash  
 Spend 1 Beasthood  
